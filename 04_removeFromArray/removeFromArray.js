@@ -14,7 +14,7 @@ const removeFromArray = function(arr, arg) {
 
 };
 
-removeFromArray([1, 2, 3, 4], 3)
+removeFromArray([1, 2, 3, 4], 2)
 
 
 // CORRECT SOLUTION
